@@ -1,0 +1,14 @@
+C:\Users\pi53hgb\source\repos\TestMorsTrad\TestMorsTrad\bin\Debug\net8.0\TestMorsTrad.exe
+C:\Users\pi53hgb\source\repos\TestMorsTrad\TestMorsTrad\bin\Debug\net8.0\TestMorsTrad.deps.json
+C:\Users\pi53hgb\source\repos\TestMorsTrad\TestMorsTrad\bin\Debug\net8.0\TestMorsTrad.runtimeconfig.json
+C:\Users\pi53hgb\source\repos\TestMorsTrad\TestMorsTrad\bin\Debug\net8.0\TestMorsTrad.dll
+C:\Users\pi53hgb\source\repos\TestMorsTrad\TestMorsTrad\bin\Debug\net8.0\TestMorsTrad.pdb
+C:\Users\pi53hgb\source\repos\TestMorsTrad\TestMorsTrad\obj\Debug\net8.0\TestMorsTrad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pi53hgb\source\repos\TestMorsTrad\TestMorsTrad\obj\Debug\net8.0\TestMorsTrad.AssemblyInfoInputs.cache
+C:\Users\pi53hgb\source\repos\TestMorsTrad\TestMorsTrad\obj\Debug\net8.0\TestMorsTrad.AssemblyInfo.cs
+C:\Users\pi53hgb\source\repos\TestMorsTrad\TestMorsTrad\obj\Debug\net8.0\TestMorsTrad.csproj.CoreCompileInputs.cache
+C:\Users\pi53hgb\source\repos\TestMorsTrad\TestMorsTrad\obj\Debug\net8.0\TestMorsTrad.dll
+C:\Users\pi53hgb\source\repos\TestMorsTrad\TestMorsTrad\obj\Debug\net8.0\refint\TestMorsTrad.dll
+C:\Users\pi53hgb\source\repos\TestMorsTrad\TestMorsTrad\obj\Debug\net8.0\TestMorsTrad.pdb
+C:\Users\pi53hgb\source\repos\TestMorsTrad\TestMorsTrad\obj\Debug\net8.0\TestMorsTrad.genruntimeconfig.cache
+C:\Users\pi53hgb\source\repos\TestMorsTrad\TestMorsTrad\obj\Debug\net8.0\ref\TestMorsTrad.dll
