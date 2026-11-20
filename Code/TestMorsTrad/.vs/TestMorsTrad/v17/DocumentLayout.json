@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pi53hgb\\source\\repos\\TestMorsTrad\\",
+  "WorkspaceRootPath": "C:\\Users\\pi53hgb\\Desktop\\GIT\\I114_Proj\\Code\\TestMorsTrad\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E97E13BD-F883-45FB-80B2-E82F3FD44EB7}|TestMorsTrad\\TestMorsTrad.csproj|c:\\users\\pi53hgb\\source\\repos\\testmorstrad\\testmorstrad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E97E13BD-F883-45FB-80B2-E82F3FD44EB7}|TestMorsTrad\\TestMorsTrad.csproj|c:\\users\\pi53hgb\\desktop\\git\\i114_proj\\code\\testmorstrad\\testmorstrad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E97E13BD-F883-45FB-80B2-E82F3FD44EB7}|TestMorsTrad\\TestMorsTrad.csproj|solutionrelative:testmorstrad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pi53hgb\\source\\repos\\TestMorsTrad\\TestMorsTrad\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pi53hgb\\Desktop\\GIT\\I114_Proj\\Code\\TestMorsTrad\\TestMorsTrad\\Program.cs",
               "RelativeDocumentMoniker": "TestMorsTrad\\Program.cs",
-              "ToolTip": "C:\\Users\\pi53hgb\\source\\repos\\TestMorsTrad\\TestMorsTrad\\Program.cs",
+              "ToolTip": "C:\\Users\\pi53hgb\\Desktop\\GIT\\I114_Proj\\Code\\TestMorsTrad\\TestMorsTrad\\Program.cs",
               "RelativeToolTip": "TestMorsTrad\\Program.cs",
               "ViewState": "AgIAAMAAAAAAAAAAAAAQwMsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

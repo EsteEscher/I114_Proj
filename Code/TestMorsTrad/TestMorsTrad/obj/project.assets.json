@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pi53hgb\\source\\repos\\TestMorsTrad\\TestMorsTrad\\TestMorsTrad.csproj",
+      "projectUniqueName": "C:\\Users\\pi53hgb\\Desktop\\GIT\\I114_Proj\\Code\\TestMorsTrad\\TestMorsTrad\\TestMorsTrad.csproj",
       "projectName": "TestMorsTrad",
-      "projectPath": "C:\\Users\\pi53hgb\\source\\repos\\TestMorsTrad\\TestMorsTrad\\TestMorsTrad.csproj",
+      "projectPath": "C:\\Users\\pi53hgb\\Desktop\\GIT\\I114_Proj\\Code\\TestMorsTrad\\TestMorsTrad\\TestMorsTrad.csproj",
       "packagesPath": "C:\\Users\\pi53hgb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pi53hgb\\source\\repos\\TestMorsTrad\\TestMorsTrad\\obj\\",
+      "outputPath": "C:\\Users\\pi53hgb\\Desktop\\GIT\\I114_Proj\\Code\\TestMorsTrad\\TestMorsTrad\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

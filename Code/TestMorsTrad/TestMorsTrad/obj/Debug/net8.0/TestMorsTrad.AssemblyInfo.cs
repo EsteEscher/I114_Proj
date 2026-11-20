@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestMorsTrad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+346259720dd4e2e4d41a8063f96c4e3cdad5369c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestMorsTrad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestMorsTrad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
